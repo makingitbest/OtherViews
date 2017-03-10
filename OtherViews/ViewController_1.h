@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ViewController_1.h
 //  OtherViews
 //
 //  Created by WangQiao on 17/2/27.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ViewController_1 : UIViewController
 
 @end
-
